@@ -1,0 +1,17 @@
+/* RESET EVERYTHING TO FULL WIDTH */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+html, body, #root {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden; /* Prevents side scrolling */
+}
+
+body {
+  display: block; /* Vite sets this to flex by default - we must change it to block */
+  background-color: #FAFAFA;
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://rushikeshbhagat.com</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+
+  <!-- Home Section -->
+  <url>
+    <loc>https://rushikeshbhagat.com#home</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://rushikeshbhagat.com#about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+
+  <!-- Skills Section -->
+  <url>
+    <loc>https://rushikeshbhagat.com#skills</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://rushikeshbhagat.com#services</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+
+  <!-- Portfolio Section -->
+  <url>
+    <loc>https://rushikeshbhagat.com#portfolio</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://rushikeshbhagat.com#contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-02-17T00:00:00Z</lastmod>
+  </url>
+</urlset>

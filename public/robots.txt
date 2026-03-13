@@ -1,0 +1,21 @@
+# Allow all legitimate search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Specific directives for Google
+User-agent: Googlebot
+Allow: /
+
+# Specific directives for Bing
+User-agent: Bingbot
+Allow: /
+
+# Disallow crawling of common irrelevant paths (if needed)
+Disallow: /node_modules/
+Disallow: /.git/
+
+# Sitemap location
+Sitemap: https://rushikeshbhagat.com/sitemap.xml
+
+# Crawl delay in seconds (optional - prevents overloading)
+Crawl-delay: 1
